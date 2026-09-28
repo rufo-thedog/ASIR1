@@ -107,8 +107,8 @@ Modificar archivos
 | Nombre              | Uso                                                                | Imagen                                   |
 | ------------------- | ------------------------------------------------------------------ | ---------------------------------------- |
 | XML                 | Facilita la escritura, validación y autocompletado de XML          | ![Extensión XML](img/xml.png)            |
-| Live Preview        | Permite previsualizar documentos HTML mientras se trabaja en ellos | ![Live Preview](img/live-preview.png)    |
-| HTML / CSS Support  | Facilita la escritura y el autocompletado de HTML y CSS            | ![HTML CSS Support](img/html-css.png)    |
+| Live Preview        | Permite previsualizar documentos HTML mientras se trabaja en ellos | ![Live Preview](img/live.png)    |
+| HTML / CSS Support  | Facilita la escritura y el autocompletado de HTML y CSS            | ![HTML CSS Support](img/support.png)    |
 | Markdown All-in-One | Añade herramientas para trabajar con documentos Markdown           | ![Markdown All-in-One](img/markdown.png) |
 
 > **Nota:** las imágenes se almacenan dentro de la carpeta `img/` del repositorio y se enlazan mediante rutas relativas. De esta forma, las imágenes pueden visualizarse también cuando el repositorio se consulta desde GitHub.
